@@ -6,16 +6,12 @@ nav_order: 4
 
 # Publikationen
 
-## mündlich (Auswahl)
-
-- 11.1.2014 „Re-Volten aufs Ganze? Zu(m) möglichen Bedenken der versammelten Be-Dingten“, Transformationen des Politischen ([language.univie.ac.at]) mit Florian Grosser, Institut für Philosophie (Universität Wien, Österreich).
-- 19.3.2016 „:aichingers topo-graph“, Annual Meeting of the American Comparative Literature Association (ACLA 17.–20.3.2016), Harvard University, USA.
-- 15.4.2016 „W/Orte im Projekt :aichinger. Zwischen λόγοι und γραφαί“, :aichinger - digital human, Österreichische Gesellschaft für Literatur (Wien, Österreich).
-- 27.3.2018 „Das Digitale Ilse Aichinger Literaturverzeichnis (dial): Methoden und Ausblicke“, Serie: Mittwochsseminar, DLA Marbach.
-- 17.1.2020 „Definiert von Zwischenräumen? Zur Frage des Verhältnisses von Text und Schriftbild in den von Aicher gestalteten Büchern Aichingers“, Between Departure and Arrival. Re-Assessing the Work of Ilse Aichinger and Helga Michie (15.–17.1.2020), University of London (Vereinigtes Königreich).
-- 1.4.2022 „‚kein Sammelsurium, sondern präzise Architektur‘ – zu Ilse Aichingers Praxis und Denken des Sammelns“, Aichinger-Konstellationen. Internationale Tagungzum 100. Geburtstag Ilse Aichingers (31.3.–1.4.2022), Forum Austriaco di Cultura Roma (Italien).
-
 ## schriftlich (Auswahl)
+
+### Herausgeberschaften
+
+- Ilse Aichinger: Aufruf zum Mißtrauen. Verstreute Publikationen 1946–2005, hrsg. v. Andreas Dittrich, S. Fischer Verlag: Frankfurt am Main 2021.
+- Ilse Aichinger: „Notizen zum Werke Felix Hartlaubs“, herausgegeben und mit einer Vorbemerkung von Jannis Wagner und Andreas Dittrich, in: Sinn und Form. Beiträge zur Literatur, hrsg. v. Akademie der Künste (Berlin), Jg. 74., Nr. 4, Juli/August 2022, S. 463-469.
 
 ### Artikel
 
@@ -34,8 +30,12 @@ nav_order: 4
 - gem. m. Bastian Politycki: „Kanonbildung und Editionspraxis (Interdisziplinäre Tagung in Wuppertal v. 26.–28.6.2019)“, in: Zeitschrift für Germanistik, Bd. 30/2,  Peter Lang Verlag 2020, [DOI: 10.3726/92166_461](https://doi.org/10.3726/92166_461), S. 470–472.
 - gem. m. Mike Rottmann: „Werk und Beiwerk. Zur Edition von Paratexten (18. Internationale Tagung der Arbeitsgemeinschaft für germanistische Edition im Deutschen Literaturarchiv Marbach v. 12.–15.2.2020)“, in: Zeitschrift für Germanistik, Bd. 30/3, [DOI: 10.3726/92167_665](https://doi.org/10.3726/92167_665), Peter Lang Verlag 2020, S. 667–670.
 
-### Herausgeberschaften
+## mündlich (Auswahl)
 
-- Ilse Aichinger: Aufruf zum Mißtrauen. Verstreute Publikationen 1946–2005, hrsg. v. Andreas Dittrich, S. Fischer Verlag: Frankfurt am Main 2021.
-- Ilse Aichinger: „Notizen zum Werke Felix Hartlaubs“, herausgegeben und mit einer Vorbemerkung von Jannis Wagner und Andreas Dittrich, in: Sinn und Form. Beiträge zur Literatur, hrsg. v. Akademie der Künste (Berlin), Jg. 74., Nr. 4, Juli/August 2022, S. 463-469.
+- 11.1.2014 „Re-Volten aufs Ganze? Zu(m) möglichen Bedenken der versammelten Be-Dingten“, Transformationen des Politischen ([language.univie.ac.at]) mit Florian Grosser, Institut für Philosophie (Universität Wien, Österreich).
+- 19.3.2016 „:aichingers topo-graph“, Annual Meeting of the American Comparative Literature Association (ACLA 17.–20.3.2016), Harvard University, USA.
+- 15.4.2016 „W/Orte im Projekt :aichinger. Zwischen λόγοι und γραφαί“, :aichinger - digital human, Österreichische Gesellschaft für Literatur (Wien, Österreich).
+- 27.3.2018 „Das Digitale Ilse Aichinger Literaturverzeichnis (dial): Methoden und Ausblicke“, Serie: Mittwochsseminar, DLA Marbach.
+- 17.1.2020 „Definiert von Zwischenräumen? Zur Frage des Verhältnisses von Text und Schriftbild in den von Aicher gestalteten Büchern Aichingers“, Between Departure and Arrival. Re-Assessing the Work of Ilse Aichinger and Helga Michie (15.–17.1.2020), University of London (Vereinigtes Königreich).
+- 1.4.2022 „‚kein Sammelsurium, sondern präzise Architektur‘ – zu Ilse Aichingers Praxis und Denken des Sammelns“, Aichinger-Konstellationen. Internationale Tagungzum 100. Geburtstag Ilse Aichingers (31.3.–1.4.2022), Forum Austriaco di Cultura Roma (Italien).
 
