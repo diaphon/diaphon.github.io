@@ -23,7 +23,7 @@ nav_order: 4
 - „Leeres lesen: Von der Lektüre typographischer Zwischenräume, Wort- und Zeilenumbrüche“, in: Zwischen Abschied und Ankunft. Between Departure and Arrival / Ilse Aichinger, Helga Michie, hrsg. v. Geoff Wilkes, Verlag Königshausen & Neumann: Würzburg 2021, S. 121–131.
 - „Landschaft“, in: Ilse Aichinger Wörterbuch, hrsg. v. Birgit Erdle und Annegret Pelz, Wallstein Verlag: Göttingen 2021, S. 170–173.
 - „Zeilenabstände als Gegenstand des Edierens? Zu Ilse Aichingers Aufzeichnungen“, in: Akten des XIV. Kongress der Internationalen Vereinigung für Germanistik (IVG) 2020: Wege der Germanistik in transkulturellen Perspektiven, Peter Lang Verlag: Lausanne 2023, [DOI: doi.org/10.3726/b19961](https://doi.org/10.3726/b19961), S. 227–237.
-- „‚kein Sammelsurium, sondern präzise Architektur‘ – zu Ilse Aichingers Denken und Praxis des Sammelns“, in: Costellazioni Aichinger | Aichinger-Konstellationen, Edizioni Studi Germanici (im Erscheinen).
+- „‚kein Sammelsurium, sondern präzise Architektur‘ – zu Ilse Aichingers Denken und Praxis des Sammelns“, in: Costellazioni Aichinger \| Aichinger-Konstellationen, Edizioni Studi Germanici (im Erscheinen).
 
 ### Berichte
 
