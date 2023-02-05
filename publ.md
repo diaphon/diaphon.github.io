@@ -32,7 +32,7 @@ nav_order: 4
 
 ## mündlich (Auswahl)
 
-- 11.1.2014 „Re-Volten aufs Ganze? Zu(m) möglichen Bedenken der versammelten Be-Dingten“, Transformationen des Politischen ([language.univie.ac.at]) mit Florian Grosser, Institut für Philosophie (Universität Wien, Österreich).
+- 11.1.2014 „Re-Volten aufs Ganze? Zu(m) möglichen Bedenken der versammelten Be-Dingten“, Transformationen des Politischen ([language.univie.ac.at](https://language.univie.ac.at)) mit Florian Grosser, Institut für Philosophie (Universität Wien, Österreich).
 - 19.3.2016 „:aichingers topo-graph“, Annual Meeting of the American Comparative Literature Association (ACLA 17.–20.3.2016), Harvard University, USA.
 - 15.4.2016 „W/Orte im Projekt :aichinger. Zwischen λόγοι und γραφαί“, :aichinger - digital human, Österreichische Gesellschaft für Literatur (Wien, Österreich).
 - 27.3.2018 „Das Digitale Ilse Aichinger Literaturverzeichnis (dial): Methoden und Ausblicke“, Serie: Mittwochsseminar, DLA Marbach.
