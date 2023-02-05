@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-diaphon, [dial], [dial2]
+
 
 
 ---
