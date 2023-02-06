@@ -11,6 +11,13 @@ Das *Digitale Ilse Aichinger Literaturverzeichnis* (dial) setzt sich zum Ziel, m
 Siehe: [github.com/diaphon/dial_private](https://github.com/diaphon/dial_private) (privat)
 
 
+# Ilse Aichingers „Verstreute Publikationen 1946--2005“ (2021)
+
+<img src="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-10-397086-9" alt= "" width="200px">
+
+Das Buchprojekt *Aufruf zum Mißtrauen. Verstreute Publikationen 1946--2005* ([DNB: 1231936517](https://d-nb.info/1231936517)) versammelt, fußend auf dem *dial* (s. o.), bislang nur verstreut und weitgehend unbekannte Publikationen von Ilse Aichingers in einem Band. Siehe dazu auch das Interview: [Ein Haus ohne Mauern bauen](https://www.fischerverlage.de/magazin/interviews/ilse-aichinger-100-geburtstag-andreas-dittrich). 
+
+
 
 # Poetologisch sensibles Edieren?
 
