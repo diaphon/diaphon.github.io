@@ -1,6 +1,5 @@
 title: diaphon
 description: Andreas Dittrich
-theme: default
 
 logo: "https://avatars.githubusercontent.com/u/12624589"
 url: https://diaphon.github.io/
@@ -30,6 +29,3 @@ nav_external_links:
   - title: ORCID
     url: https://orcid.org/0000-0002-1984-7389
     hide_icon: false
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
