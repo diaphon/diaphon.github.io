@@ -6,7 +6,9 @@ nav_order: 2
 
 # *Digitale Ilse Aichinger Literaturverzeichnis* (dial)
 
-Das *Digitale Ilse Aichinger Literaturverzeichnis* (dial) setzt sich zum Ziel, möglichst alle publizierten Texte von Ilse Aichinger (1921–2016) bibliografisch zu verzeichnen. Eine vollständige subjektive Personalbibliografie ist bislang nicht geleistet worden. Für das dial wurden Bestände verschiedener Archive und Kataloge durchsucht; vor allem aber die Bestände am Deutschen Literaturarchiv Marbach, welches das Projekt über den Forschungsverbund MWW auch mit einem Stipendium gefördert hat. 
+<img src="https://github.com/diaphon/dial/blob/master/rotary_dial.png" alt= "" width="100px">
+
+Das *Digitale Ilse Aichinger Literaturverzeichnis* ([dial.aichingerhaus.at](http://dial.aichingerhaus.at/)) setzt sich zum Ziel, möglichst alle publizierten Texte von Ilse Aichinger (1921–2016) bibliografisch zu verzeichnen. Eine vollständige subjektive Personalbibliografie ist bislang nicht geleistet worden. Für das dial wurden Bestände verschiedener Archive und Kataloge durchsucht; vor allem aber die Bestände am Deutschen Literaturarchiv Marbach, welches das Projekt über den Forschungsverbund MWW auch mit einem Stipendium gefördert hat. 
 
 Siehe: [github.com/diaphon/dial_private](https://github.com/diaphon/dial_private) (privat)
 
