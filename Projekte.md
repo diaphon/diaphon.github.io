@@ -6,7 +6,7 @@ nav_order: 2
 
 # *Digitale Ilse Aichinger Literaturverzeichnis* (dial)
 
-<img src="https://raw.githubusercontent.com/diaphon/dial/master/rotary_dial.png" alt= "" width="100px">
+<img src="https://raw.githubusercontent.com/diaphon/dial/master/rotary_dial.png" alt= "" align="left" width="100px">
 
 Das *Digitale Ilse Aichinger Literaturverzeichnis* ([dial.aichingerhaus.at](http://dial.aichingerhaus.at/)) setzt sich zum Ziel, möglichst alle publizierten Texte von Ilse Aichinger (1921–2016) bibliografisch zu verzeichnen. Eine vollständige subjektive Personalbibliografie ist bislang nicht geleistet worden. Für das dial wurden Bestände verschiedener Archive und Kataloge durchsucht; vor allem aber die Bestände am Deutschen Literaturarchiv Marbach, welches das Projekt über den Forschungsverbund MWW auch mit einem Stipendium gefördert hat. 
 
@@ -15,7 +15,7 @@ Siehe: [github.com/diaphon/dial_private](https://github.com/diaphon/dial_private
 
 # Ilse Aichingers „Verstreute Publikationen 1946--2005“ (2021)
 
-<img src="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-10-397086-9" alt= "" width="200px">
+<img src="https://portal.dnb.de/opac/mvb/cover?isbn=978-3-10-397086-9" alt= "" align="left" width="200px">
 
 Das Buchprojekt *Aufruf zum Mißtrauen. Verstreute Publikationen 1946--2005* ([DNB: 1231936517](https://d-nb.info/1231936517)) versammelt, fußend auf dem *dial* (s. o.), bislang nur verstreut und weitgehend unbekannte Publikationen von Ilse Aichingers in einem Band. Siehe dazu auch das Interview: [Ein Haus ohne Mauern bauen](https://www.fischerverlage.de/magazin/interviews/ilse-aichinger-100-geburtstag-andreas-dittrich). 
 
@@ -23,7 +23,7 @@ Das Buchprojekt *Aufruf zum Mißtrauen. Verstreute Publikationen 1946--2005* ([D
 
 # Poetologisch sensibles Edieren?
 
-![Image](./Satzspiegel.png)
+<img src="./Satzspiegel.png" alt= "" width="200px">
 
 Von Ilse Aichinger (1921–2016) liegen seit 1. September 1945 694 Werkeinheiten (im Sinn der FRBR, 2.612 Ausgaben) publiziert vor (vgl. [dial]), von denen – großteils bereits zuvor verstreut publiziert – 169 in sechs von Otl Aicher (1922–1991) visuell gestalteten Büchern versammelt wurden (alle im S. Fischer Verlag in Frankfurt am Main). Die 1991 von Richard Reichensperger (1961–2004) (ebenfalls bei S. Fischer) herausgegebene Ausgabe Werke in acht Bänden übernimmt wesentliche Elemente der kompositorischen und typographischen Gestaltung dieser Bücher. Der Ausgangspunkt des (seit April 2019 laufenden) Dissertationsprojekts „Poetologisch sensibles Edieren?“ ist, dass diese als eine kollaborative und künstlerische Auseinandersetzung mit der Poetologie der Autorin begriffen werden kann. Sie funktioniert semantisch und performativ zugleich und wird weder als inszenierende Typographie (denn der Text kommt nicht direkt zur Darstellung) noch als visuelle Poesie (denn die Typographie steht in einem ko-konstitutiven Verhältnis zum Text) ausreichend charakterisiert. Die verdoppelnde Umschlaggestaltung, der herabgesetzte Satzspiegel und der korrigierte Flattersatz lassen sich vielmehr aus Aichingers poetischen Denken verstehen, das dekonstruktiv, subtextuell und anarchisch ist. Das Projekt (1.) beobachtet am Beispiel der angesprochenen Bücher den hermeneutischen Möglichkeitsraum der Gestaltung (Indiziensammlung, Analyse, Interpretation) und dessen Korrespondenzen mit Aichingers Poetologie; um daran anschließend (2.) praktisch eine poetologisch sensible Edition umzusetzen, die rund hundert, bislang nur verstreut publizierte Texte Aichingers versammeln soll. Die Fragen nach den Bedingungen der Konzeption, den Umständen der Herstellung und den Möglichkeiten der Rezeption, finden eine mögliche Antwort in der praktischen Realisation dieser Edition und werden – anhand der leitenden Frage, wie sich die in der Gestaltung manifestierenden poetologischen Aspekte beim Edieren berücksichtigen lassen – in der Dissertation kritisch reflektiert.
 
@@ -32,7 +32,7 @@ Siehe: [editionen.uni-wuppertal.de/…](https://www.editionen.uni-wuppertal.de/d
 
 # hyperfast reading
 
-![Image](https://github.com/diaphon/hyperfast_reading/raw/master/Alle_Bilder_Montage.jpg)
+<img src="https://github.com/diaphon/hyperfast_reading/raw/master/Alle_Bilder_Montage.jpg" alt= "" width="200px">
 
 The insight-oriented, methodological project hyperfast reading appropriates a method called distant viewing from the fields of picture- and film-analysis (which itself is an appropriation of distant reading from the fields of literary studies) for the analysis of typographic page layouts. The insight, this project is looking for, is the layout of text-sources (although this can be any source of text that is visible visually, the project's concrete interest is oriented towards printed texts). While text-layouts are usually explained in abstract ways (sketch-lines and so forth abstract from the concrete phenomena), this approache tries to stay concrete and at the same time visualizes the concept of the layout. As this project is situated in an other project, which quarrels with Otl Aichers design of Ilse Aichingers books (S.Fischer: 1965 ff.), but cannot take those books into account because of copyrights, data from the Deutsches Textarchiv is taken.
 
