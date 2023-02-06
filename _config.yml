@@ -3,7 +3,6 @@ description: Andreas Dittrich
 theme: just-the-docs
 
 logo: "https://avatars.githubusercontent.com/u/12624589"
-
 url: https://diaphon.github.io/
 
 nav_external_links:
@@ -19,7 +18,7 @@ nav_external_links:
   - title: Neuberg College
     url: https://neubergcollege.org/
     hide_icon: false
-  - title: GRK 2196: Dokument – Text – Edition 
+  - title: GRK 2196 Dokument -- Text -- Edition 
     url: https://www.editionen.uni-wuppertal.de/de/personen/kollegiatinnen-und-kollegiaten/dittrich-andreas.html
     hide_icon: false
   - title: fedihum.org
