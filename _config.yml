@@ -1,6 +1,7 @@
 title: diaphon
 description: Andreas Dittrich
-theme: home 
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
 
 logo: "https://avatars.githubusercontent.com/u/12624589"
 url: https://diaphon.github.io/
