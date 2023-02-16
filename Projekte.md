@@ -35,6 +35,8 @@ Siehe: [editionen.uni-wuppertal.de/…](https://www.editionen.uni-wuppertal.de/d
 
 The insight-oriented, methodological project hyperfast reading appropriates a method called distant viewing from the fields of picture- and film-analysis (which itself is an appropriation of distant reading from the fields of literary studies) for the analysis of typographic page layouts. The insight, this project is looking for, is the layout of text-sources (although this can be any source of text that is visible visually, the project's concrete interest is oriented towards printed texts). While text-layouts are usually explained in abstract ways (sketch-lines and so forth abstract from the concrete phenomena), this approache tries to stay concrete and at the same time visualizes the concept of the layout. As this project is situated in an other project, which quarrels with Otl Aichers design of Ilse Aichingers books (S.Fischer: 1965 ff.), but cannot take those books into account because of copyrights, data from the Deutsches Textarchiv is taken.
 
+The method also works for single books. 
+
 <img src="Waldrop_A_Key_allChaps.jpg" alt="Rosemarie Waldrop, A Key To The Language Of America, 1994, Chapter I–XXXII">
 
 See: [github.com/diaphon/hyperfast_reading](https://github.com/diaphon/hyperfast_reading)
