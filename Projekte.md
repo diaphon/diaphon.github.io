@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Projekte
 nav_order: 2
 ---
